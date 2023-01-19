@@ -1,0 +1,3 @@
+5083 atoms cluster was used to make this image and video.
+20x speed with every 5th frame on ovito. 
+timestep used is 2 and every 8th loop is recorded in csv.

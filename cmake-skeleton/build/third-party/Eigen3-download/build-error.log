@@ -1,0 +1,7 @@
+CMake Error at /mnt/d/documents/molecular dynamics/cmake-skeleton/build/third-party/Eigen3-download/Eigen3-prefix/tmp/Eigen3-gitclone.cmake:31 (message):
+  Failed to clone repository: '/usr/bin/git'
+
+
+make[2]: *** [CMakeFiles/Eigen3.dir/build.make:92: Eigen3-prefix/src/Eigen3-stamp/Eigen3-download] Error 1
+make[1]: *** [CMakeFiles/Makefile2:76: CMakeFiles/Eigen3.dir/all] Error 2
+make: *** [Makefile:84: all] Error 2

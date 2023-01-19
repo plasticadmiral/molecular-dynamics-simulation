@@ -1,0 +1,5 @@
+Scanning dependencies of target Eigen3
+[ 11%] Creating directories for 'Eigen3'
+[ 22%] Performing download step (git clone) for 'Eigen3'
+-- Had to git clone more than once:
+          3 times.

@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints
+/external
+/results/**/*.out
+/results/**/*.xyz
+/build/*
+!/build/external

@@ -1,0 +1,2 @@
+20x speed every frame on ovito.
+0.005 timestep with every loop.

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ih.C": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "limits": "cpp",
+        "mprealsupport": "cpp",
+        "chrono": "cpp"
+    }
+}

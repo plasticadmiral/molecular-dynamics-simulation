@@ -1,0 +1,7 @@
+20x speed with every frame on ovito.
+whisker_parallel_1000_DLM_0.010_T_5 file used to make this data.
+every 8th loop recorded in csv.
+
+1% deformation at 5 kelvin for whisker1 ()
+0th loop images     - in elastic deformation range
+16500th loop images - in plastic deformation range
