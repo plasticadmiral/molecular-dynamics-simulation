@@ -11,7 +11,7 @@ A part of the source files used in this project were provided by the lecture con
 ## Tools used:
 The datastructures are provided by the [Eigen](https://eigen.tuxfamily.org/) library and tests are run on the implemented features using [Googletest](https://github.com/google/googletest).  [Ovito](https://www.ovito.org/about/) is used to visualize the simulation. The plots are made with python using [Matplotlib](https://matplotlib.org/) and are managed using a [Jupyter notebook](https://jupyter.org/).
 
-# Simulations:
+# Simulation Videos:
 ## Equilibriated Molecule
 https://user-images.githubusercontent.com/49732300/212583771-2ec5e089-9911-46ab-99ff-7cbaf0bb3288.mov
 
